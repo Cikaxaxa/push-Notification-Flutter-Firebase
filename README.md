@@ -1,6 +1,6 @@
-# push_notfication
+# Push Notification
 
-A new Flutter project.
+Integration push notification in flutter
 
 ## Getting Started
 
