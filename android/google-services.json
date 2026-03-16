@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536134055554",
+    "project_id": "push-notfication-a02bd",
+    "storage_bucket": "push-notfication-a02bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536134055554:android:d8db03655675ae45d2a69b",
+        "android_client_info": {
+          "package_name": "com.example.push_notfication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPQIAFgOt1n0Kl0VLNj8HolQsg37HF4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
